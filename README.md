@@ -1,2 +1,2 @@
-# gunmu-town
+# gunmu
 gunmu
